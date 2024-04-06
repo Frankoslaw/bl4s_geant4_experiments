@@ -6,7 +6,7 @@
                 "${workspaceFolder}/**",
                 "/home/frankoslaw/software/geant4/geant4-v11.2.1-install/include",
                 "/home/frankoslaw/software/geant4/geant4-v11.2.1-install/include/Geant4",
-                "/home/frankoslaw/Documents/programming/bl4s_geant4/tutorial_first_project/include"
+                "/home/frankoslaw/Documents/programming/bl4s_geant4/tutorial_photo_sensor/include"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
